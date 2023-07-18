@@ -1,0 +1,41 @@
+div{
+    border-style: double;
+    border-color: rgb(29, 8, 49);
+    border-width: 27px;
+    border-radius: 100px;
+    height: 27%;
+    background-color: rgb(171, 168, 164);
+    
+    }
+    img{
+    
+    
+        width: 600px;
+        border-width: 5px;
+        height: 600px;
+        border-style: dashed;
+        background-color: bisque;
+        
+        
+        
+    }
+    h1{
+    
+        text-align: top;
+        text-decoration-color: rgb(29, 3, 42);
+        
+        background-color: rgb(239, 237, 234);
+    }
+    h2{
+        text-align: top;
+        text-decoration-color: rgb(29, 3, 42);
+        
+        background-color: rgb(239, 237, 234);
+    
+    }
+    h3{
+        text-align: top;
+        text-decoration-color: rgb(29, 3, 42);
+        
+        background-color: rgb(239, 237, 234);
+    }
